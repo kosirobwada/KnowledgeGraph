@@ -1,0 +1,2 @@
+# KnowledgeGraph
+知識グラフをwikipediaデータセットの引用をもとに構築し、グラフをBFSする研究です。枝狩りにはEmbedding結果を用いています。
